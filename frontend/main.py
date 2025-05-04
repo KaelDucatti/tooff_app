@@ -1,6 +1,6 @@
 import flet as ft
-from frontend.pages.login_view import login_view
-from frontend.pages.home_view import home_view
+from pages.login_view import login_view
+from pages.home_view import home_view
 
 
 def main(page: ft.Page):
